@@ -1,0 +1,77 @@
+	#person-head {
+				height: 100px;
+				border-bottom: 2px solid red;
+				}
+				
+				#person-content{
+					margin-top:20px ;
+					height: 500px;
+					/*border: 1px solid red;*/
+				}
+				#pic img{
+					margin-top:20px ;
+					width: 1140px;
+				}
+				#person-content-left{
+					float: left;
+					width: 300px;
+					height: 500px;
+					/*border: 1px solid red;*/
+					background-color: #F7ECB5;
+				}
+				#person-content-right{
+					
+					float: left;
+					width: 800px;
+					height: 500px;
+					/*border: 1px solid red;*/
+					margin-left: 40px;
+					/* background-color:#DBDBDB ; */
+					border: 1px solid #DBDBDB;
+				}
+				
+				.titleContent{
+					width: 300px;
+					height: 80px;
+				}
+				#personalCenter{
+					width: 300px;
+					height: 50px;
+					background-color: orange;
+					text-align: center;
+					line-height: 50px;
+					font-size:25px ;
+					font-weight: bold;
+				}
+				#personStyle p{
+					margin-left: 20px;
+					font-size: 20px;
+					font-weight: bold;
+				}
+				#personStyle a{
+					color: black;
+					text-decoration: none;
+				}
+				
+				#personStyle a:hover{
+					color:  red;
+				}
+				#check{
+					color:red;
+				}
+				#person-content-right p{
+					font-size: 20px;
+					margin-left: 20px;
+					margin-top: 20px;
+					font-weight: bold;
+					
+				}
+				#submit{
+					width: 80px;
+					margin-left: 200px;
+					font-weight: bold;
+				}
+				#submit:hover{
+					background-color: orange;
+					color: white;
+				}

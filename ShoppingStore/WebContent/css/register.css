@@ -1,0 +1,36 @@
+#register-head {
+	height: 100px;
+	border-bottom: 2px solid red;
+}
+
+#register-content {
+	height: 600px;
+	/*border: 1px solid red;*/
+}
+
+#register-content-form {
+	margin-top:;
+	margin: 20px auto auto auto;
+	width: 600px;
+	height: 580px;
+	border: 1px solid #DDDDDD;
+	text-align: center;
+}
+
+#register-content-form .title {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#ver {
+	margin-left: 100px;
+}
+
+#register-content-form .widthes {
+	height: 35px;
+	width: 250px;
+}
+
+#register-content-form .words {
+	color: orange;
+}

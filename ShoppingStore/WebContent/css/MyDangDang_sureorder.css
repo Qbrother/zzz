@@ -1,0 +1,37 @@
+#person-head {
+				height: 100px;
+				border-bottom: 2px solid red;
+				}
+				
+				#person-content{
+					margin-top:20px ;
+					height: 500px;
+					border: 1px solid  #DDDDDD;
+				}
+				#pic img{
+					margin-top:20px ;
+					width: 1140px;
+				}
+
+				.wordStyle{
+					color:red;
+					font-weight: bold;
+				}
+				#person-content p{
+					font-size: 20px;
+					text-align: center;
+					margin-top: 20px;
+					
+				}
+				
+				.tb{
+					margin: auto;
+					width: 800px;
+					height: 300px;
+					/*border: 1px solid red;*/
+					text-align: center;
+				}
+				
+				.tb th{
+					text-align: center;
+				}

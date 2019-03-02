@@ -1,0 +1,49 @@
+#login-head {
+	height: 100px;
+	border-bottom: 2px solid red;
+}
+
+#login-content {
+	height: 600px;
+	/*border: 1px solid red;*/
+}
+
+#login-content-left {
+	width: 700px;
+	height: 600px;
+	/*border: 1px solid red;*/
+	text-align: center;
+	line-height: 600px;
+	float: left;
+}
+
+#login-content-left img {
+	height: 500px;
+}
+
+#login-content-right {
+	width: 440px;
+	height: 600px;
+	/*border: 1px solid red;*/
+	float: left;
+	margin: auto;
+	text-align: center;
+}
+
+#login-content-right-form {
+	margin-top: 100px;
+	margin-left: 70px;
+	height: 300px;
+	width: 300px;
+	border: 1px solid #DDDDDD;
+}
+
+#login-content-right-form .word {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#login-content-right-form-password {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}

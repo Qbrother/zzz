@@ -1,0 +1,109 @@
+#manage-head {
+	height: 100px;
+	border-bottom: 2px solid red;
+}
+
+#manage-content {
+	margin-top: 20px;
+	height: 500px;
+	/*border: 1px solid red;*/
+}
+
+#pic img {
+	margin-top: 20px;
+	width: 1140px;
+}
+
+#manage-content-left {
+	float: left;
+	width: 300px;
+	height: 500px;
+	/*border: 1px solid red;*/
+	background-color: #F7ECB5;
+}
+
+#manage-content-right {
+	float: left;
+	width: 800px;
+	height: 500px;
+	/*border: 1px solid red;*/
+	margin-left: 40px;
+	border: 1px solid #DBDBDB;
+}
+
+
+.titleContent {
+	width: 300px;
+	height: 80px;
+}
+
+#manageCenter {
+	width: 300px;
+	height: 50px;
+	background-color: orange;
+	text-align: center;
+	line-height: 50px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+#manageStyle p {
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#manageStyle a {
+	color: black;
+	text-decoration: none;
+}
+
+#manageStyle a:hover {
+	color: red;
+}
+
+#check {
+	color: red;
+}
+
+#manage-content-right p {
+	font-size: 15px;
+	margin-left: 20px;
+	margin-top: 5px;
+	font-weight: bold;
+}
+
+#box {
+	margin: auto;
+	text-align: center;
+	height: 300px;
+	margin-bottom: 0px;
+	/* border: 1px solid red; */
+}
+
+#update {
+	height: 90px;
+	width: 800px;
+	font-size: 15px;
+	border-top: 1px solid #DBDBDB;
+	border-bottom: 1px solid #DBDBDB;
+}
+
+#insert {
+	height: 60px;
+	width: 800px;
+	font-size: 15px;
+	/* border: 1px solid red; */
+}
+
+#updatestyle {
+	font-size: 15px;
+	margin-left: 20px;
+	margin-top: 20px;
+}
+
+#insertstyle {
+	font-size: 15px;
+	margin-left: 20px;
+	margin-top: 20px;
+}

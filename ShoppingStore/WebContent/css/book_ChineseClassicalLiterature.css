@@ -1,0 +1,99 @@
+#book-head {
+	height: 100px;
+	border-bottom: 2px solid red;
+}
+
+.price_beforediscount {
+	font-size: 15px;
+	font-weight: bold;
+	color: grey;
+	text-decoration: line-through;
+}
+
+.price_afterdiscount {
+	font-size: 20px;
+	font-weight: bold;
+	color: red;
+	margin-right: 5px;
+}
+
+.introduce {
+	font-size: 20px;
+}
+
+.btn-primary {
+	margin-left: 10px;
+}
+
+#classification {
+	margin-top: 20px;
+	/*height: 5500px;*/
+	/*border: 1px solid red;*/
+}
+
+#classification ul li {
+	font-size: 20px;
+}
+
+#classification ul li a:hover {
+	color: red;
+}
+
+.features {
+	height: 50px;
+	border-bottom: 1px solid #DDDDDD;
+	margin-bottom: 20px;
+}
+
+#details p {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.fontStyle {
+	line-height: 50px;
+	font-size: 20px;
+	font-weight: bold;
+	color: orange;
+}
+
+.price {
+	margin-top: 20px;
+	height: 200px;
+	background-color: #DCDCDC;
+}
+
+.priceWord {
+	font-weight: bold;
+}
+
+.pricetitle {
+	margin-top: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.imgstyle {
+	text-align: center;
+}
+
+#comments-head, #questionAnswer-head {
+	height: 50px;
+	background-color: #DCDCDC;
+}
+
+#book-content-top {
+	margin-top: 10px;
+	/*border: 1px solid red;*/
+	margin-bottom: 10px;
+}
+
+#book-content-down {
+	/*height: 5000px;*/
+	/*border: 1px solid red;*/
+	
+}
+
+#comments-head p, #questionAnswer-head p {
+	line-height: 50px;
+}

@@ -1,0 +1,64 @@
+	#person-head {
+				height: 100px;
+				border-bottom: 2px solid red;
+				}
+				
+				#person-content{
+					margin-top:20px ;
+					height: 300px;
+					border: 1px solid  #DDDDDD;
+				}
+				#pic img{
+					margin-top:20px ;
+					width: 1140px;
+				}
+
+				.wordStyle{
+					color:red;
+					font-weight: bold;
+				}
+				#person-content p{
+					margin-top: 20px;
+					font-size: 20px;
+					text-align: center;
+				}
+				
+				.tb{
+					margin: auto;
+					width: 800px;
+					height: 230px;
+					/*border: 1px solid red;*/
+					/*text-align: center;*/
+				}
+				#list{
+					width: 800px;
+					height: 170px;
+					/*border: 1px solid red;*/
+				}
+				.list-left{
+					text-align:right;
+					float: left;
+					width: 200px;
+					height: 50px;
+					border: 1px solid #DDDDDD;
+					line-height: 50px;
+					font-size: 16px;
+					font-weight: bold;
+					background-color: cornflowerblue;
+				}
+				.list-right{
+					float: left;
+					width: 600px;
+					height: 50px;
+					border: 1px solid #DDDDDD;
+				}
+				.input{
+					margin-left: 20px;
+					width: 400px;
+					height: 40px;
+					margin-top: 5px;
+				}
+				#up{
+					margin-left: 330px;
+					margin-top: 20px;
+				}
